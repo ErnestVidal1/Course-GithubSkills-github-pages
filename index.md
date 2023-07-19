@@ -1,38 +1,34 @@
 ---
-title: Ernest Vidal's Portfolio
+title: Welcome to Ernest Vidal's Portfolio
 ---
 
-# Home
-Welcome! I am a passionate technologist specializing in web development. My interests include...
+# Welcome to My Portfolio!
 
-## About Me
-I hold a degree in Philosophy and am a self-taught computer programmer with a focus on web editing and technical writing. My journey into technology started with...
+Hi, I'm Ernest Vidal. I'm a Philosophy graduate and a self-taught technical writer focusing on web app documentation.
 
-## Skills
-Here are some of the programming languages and tools I am proficient in:
-- JavaScript
-- Python
-- HTML & CSS
-- Git and GitHub
+This is my portfolio, where I document my journey and showcase my projects.
 
-## Projects
-I have worked on a variety of projects, demonstrating my skills in coding and problem-solving. Here are some highlights:
+## Sections
 
-- **Project 1**: Brief description and challenges overcome. [Link to repo](URL)
-- **Project 2**: Brief description and challenges overcome. [Link to repo](URL)
+* [Projects](#projects) - This is where I display my coding projects and contributions.
+* [Learning Journey](#learning-journey) - My blog posts documenting my learning process.
+* [Skills](#skills) - A detailed list of my programming skills and knowledge.
+* [About Me](#about-me) - More about my background and interests.
 
-## Courses
-Here is a list of the courses I've completed on GitHub Skills, with links to the relevant repositories and screenshots:
+### Projects
 
-- **Course 1**: Brief description. [Link to repo and screenshot](URL)
-- **Course 2**: Brief description. [Link to repo and screenshot](URL)
+_Coming soon..._
 
-## Blog
-Check out my [blog](URL) where I write about what I'm learning and the problems I'm solving.
+### Learning Journey
 
-## Contact
-I'd love to connect with you. You can find me on:
+[Go to Blog](/blog)
 
-- [GitHub](URL)
-- [LinkedIn](URL)
-- Email: your.email@example.com
+### Skills
+
+_Coming soon..._
+
+### About Me
+
+_Coming soon..._
+
+
